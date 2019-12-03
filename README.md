@@ -4,7 +4,7 @@
 ### Description
 In this assignment I had to use global variables to make 4 different gears. I made one gear at first, using equations as the dimentions, and then I made different configurations. For these configurations, I changed the global variables to make them have different ammounts of teeth, and to have them be different sizes. I then used equations again to make triangle-ish cuts in the gears and I also added a D shapd cut to the middle. 
 ### Picture
-<img src="Solidworks/pictures/gears.PNG" width="300px"/>
+<img src="Solidworks/pictures/gears.png" width="300px"/>
 
 ### Problems and Lessons Learned
 In this assignment I learned how to use global variables and also how they can make it so much easier. They make it so you don't have to put in exact numbers for dimensions, and that you can instead use equations with variables you already set up. One problem i had in this assignment was that my 2 smaller 1.0 module gears ended up looking really funky. They were basically just rings. I realized after as bit that i forgot to do equal spacing for the cut that makes the teeth, so the spacing between them was all messed up for these configurations. After I fixed that I was done. i also learned about the different ratios for gears and what all the different parts are called and how they affect what you end up with.
