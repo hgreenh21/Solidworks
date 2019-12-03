@@ -21,10 +21,14 @@ th main problem I had with this assignment was getting the plate to be right. To
 ## Motion Study
 ### Description
 ### Picture
+<img src="pictures/motion.png" width="300px"/>
+
 ### Lessons learned
 
 ## Stress Analysis
 ### Description
 ### Picture
+<img src="pictures/stresspic.png" width="300px"/>
+
 ### Lessons learned
 ### lessons learned
