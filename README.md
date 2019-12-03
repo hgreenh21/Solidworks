@@ -17,3 +17,5 @@ In this assignment i had to make an axle with two configurations, a spacer with 
 
 ### Problems and Leassons Learned
 th main problem I had with this assignment was getting the plate to be right. To do this I had to calculate all the pitch diameters of the different gears, and add up the ones that were to mesh together. I then had to use that sum as the distance between the holes for those assemblies. This took a lot of tries because I kept messing up math and just making the distances a little off. After i fixed the plate I ran into a problem with the gear mates. I didn't know that you had to use a ratio between the gears to make them mesh right, so mine were going into eachother as they turned. I then got some help and realized that you need to make a ratio. I learned that the ratio is just the pitch diameter of the two gears. 
+
+<img src="pictures/motionvid.avi" width="400px"/>
