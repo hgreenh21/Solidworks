@@ -4,7 +4,7 @@
 ### Description
 In this assignment I had to use global variables to make 4 different gears. I made one gear at first, using equations as the dimentions, and then I made different configurations. For these configurations, I changed the global variables to make them have different ammounts of teeth, and to have them be different sizes. I then used equations again to make triangle-ish cuts in the gears and I also added a D shapd cut to the middle. 
 ### Picture
-<img src="pictures/gears.png" width="300px"/>
+<img src="pictures/gears.png" width="350px"/>
 
 ### Problems and Lessons Learned
 In this assignment I learned how to use global variables and also how they can make it so much easier. They make it so you don't have to put in exact numbers for dimensions, and that you can instead use equations with variables you already set up. One problem i had in this assignment was that my 2 smaller 1.0 module gears ended up looking really funky. They were basically just rings. I realized after as bit that i forgot to do equal spacing for the cut that makes the teeth, so the spacing between them was all messed up for these configurations. After I fixed that I was done. i also learned about the different ratios for gears and what all the different parts are called and how they affect what you end up with.
@@ -22,7 +22,7 @@ The main problem I had with this assignment was getting the plate to be right. T
 ### Description
 In this assignment i had to make a base, s bracket, a clip, a servo arm, a mount, and a shelf. the parts themselves weren't that hard to make. After i made them all I put them together with a servo in an assembly. I then had to make a motion study that made it so the servo would turn and it would carry the shelf up with it. I did this my adding a motor, gravity, and contacts. the contacts made it so pieces wouldnt go through eachother, and that they would instead move together naturally. 
 ### Picture
-<img src="pictures/motion.png" width="300px"/>
+<img src="pictures/motion.png" width="400px"/>
 
 ### Lessons learned
 My main problem in this assigg=nment was getting the motor t work. i would spin the servo in the wrong direction and when i changed the direction it wouldn't do anything. I just deleted the motor and made it again and it worked. I also had a problem with the view orientation. I must have been moving the part during the study because the view was moving all over the place. i fixed this by deleting all the view orientation points and making new ones from an angle i preferred. 
