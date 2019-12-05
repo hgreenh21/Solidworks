@@ -1,10 +1,10 @@
 # Solidworks
 
 ## Table of Contents
-* Gears(#Gears)
-* Gearbox(#Gearbox)
-* Motion Study(#Motion-Study)
-* Stress Analysis(#Stress-Analysis)
+* [Gears](#Gears)
+* [Gearbox](#Gearbox)
+* [Motion Study](#Motion-Study)
+* [Stress Analysis](#Stress-Analysis)
 
 ## Gears
 ### Description
