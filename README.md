@@ -1,5 +1,11 @@
 # Solidworks
 
+## Table of Contents
+* Gears(#Gears)
+* Gearbox(#Gearbox)
+* Motion Study(#Motion-Study)
+* Stress Analysis(#Stress-Analysis)
+
 ## Gears
 ### Description
 In this assignment I had to use global variables to make 4 different gears. I made one gear at first, using equations as the dimentions, and then I made different configurations. For these configurations, I changed the global variables to make them have different ammounts of teeth, and to have them be different sizes. I then used equations again to make triangle-ish cuts in the gears and I also added a D shapd cut to the middle. 
